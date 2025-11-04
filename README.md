@@ -1,4 +1,4 @@
-# 🎵 Music Recommendation System
+# 🎵 Music 
 
 A machine learning project that recommends songs to users based on listening patterns, content similarity, and collaborative filtering.
 
